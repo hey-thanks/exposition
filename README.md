@@ -1,7 +1,5 @@
 # exposition
 
-***
-
 A Python package designed to help you write documents, reports, etc.
 
 
@@ -26,7 +24,6 @@ portion of this README.md file.
     
     report.add_elements(
         Header('exposition'),
-        HorizontalRule(),
         Paragraph('A Python package designed to help you write documents, reports, etc.'),
         Header('Output Formats', level=2)
         Paragraph('The goal is to implement the following output formats.')
